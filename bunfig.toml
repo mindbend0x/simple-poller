@@ -1,0 +1,10 @@
+[install]
+cache = true
+registry = "https://registry.npmjs.org"
+
+[publish]
+registry = "https://registry.npmjs.org"
+access = "public"
+
+[install.scopes]
+# "@orgname" = { registry = "https://registry.npmjs.org" }
